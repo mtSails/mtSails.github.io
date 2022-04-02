@@ -4,4 +4,7 @@
     p-dark      #102027
 */
 
-body{background-color: #102027;}
+body{
+    background-color: #102027;
+    color: white;
+}
