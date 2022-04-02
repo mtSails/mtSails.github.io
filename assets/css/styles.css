@@ -8,3 +8,7 @@ body{
     background-color: #102027;
     color: white;
 }
+
+a, a:visited {
+    color: inherit;
+}
